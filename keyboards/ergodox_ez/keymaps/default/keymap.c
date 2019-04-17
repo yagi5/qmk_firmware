@@ -49,7 +49,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	_______,  KC_Y,      KC_U,             KC_I,      KC_O,    KC_P,      KC_BSPACE,
 	          KC_H,      KC_J,             KC_K,      KC_L,    KC_SCOLON, KC_QUOTE,
 	_______,  KC_N,      KC_M,             KC_COMMA,  KC_DOT,  KC_SLASH,  KC_ENTER,
-	                     LGUI_T(KC_LANG1), _______,   _______, _______,   _______,
+	                     LALT_T(KC_LANG1), _______,   _______, _______,   _______,
 	_______,  _______,
 	_______,
 	_______,  KC_RSHIFT, MO(RAISE)
